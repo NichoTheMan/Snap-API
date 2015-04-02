@@ -1,0 +1,10 @@
+.idea/
+*.jpg
+
+*.mp4
+
+*.zip
+
+*.png
+
+src/auth.dat
